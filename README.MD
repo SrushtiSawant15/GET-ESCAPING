@@ -4,7 +4,7 @@ Website name : GetEscaping
 
 Requirement: HTML, CSS, Javascript.
 
-To see the website in action, please go to :  
+To see the website in action, please go to : https://srushtisawant15.github.io/GET-ESCAPING/
 
 Features of this website:
 - responsive header section with search box, login/register form and toogle menu
