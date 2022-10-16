@@ -1,15 +1,10 @@
-  Mini project 1 B
-  
-  
+A complete Frontend Travel Website.
+
 Website name : GetEscaping
 
+Requirement: HTML, CSS, Javascript.
 
-Requirement: HTML, CSS, Javascript
-
-
-Group members: Srushti S, Prerna S, Utsav K, Mayur K.
-
-To see the website in action, please go to :  https://project1a1b.github.io/GetEscaping/
+To see the website in action, please go to :  
 
 Features of this website:
 - responsive header section with search box, login/register form and toogle menu
