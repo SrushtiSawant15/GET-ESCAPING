@@ -17,3 +17,5 @@ Features of this website:
 - responsive blogs section using css grid
 - responsive brand section with touch slider
 - responsive footer section using css grid
+
+
