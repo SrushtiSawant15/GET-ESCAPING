@@ -17,5 +17,5 @@ Features of this website:
 - responsive blogs section using css grid
 - responsive brand section with touch slider
 - responsive footer section using css grid
-
+\![Screenshot (213)](https://github.com/SrushtiSawant15/GET-ESCAPING/assets/98805433/455cd1ec-0751-4491-80e7-cbf547ab356f)
 
